@@ -1,0 +1,3 @@
+# RD117_ARDUINO
+MAXREFDES117 firmware for Arduino platforms
+This chip is, apparently, quite similar to the '05 chip, which isn't well documented...
